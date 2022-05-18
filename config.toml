@@ -128,7 +128,7 @@ disableHugoGeneratorInject = true
 
   [languages.ar]
     subtitle  = "!قريبا"
-    weight    = 2
+    weight    = 3
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     title = '!قريبا'
 
